@@ -1,0 +1,6 @@
+.env
+
+/.data
+/.docker
+/.git
+/node_modules
