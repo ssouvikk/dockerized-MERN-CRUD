@@ -17,6 +17,14 @@ sudo docker compose up --build
 ```
 
 
+## DB GUI connection:
+```bash
+mongodb://127.0.0.1:27017/test-db
+# OR
+mongodb://localhost:27017/test-db
+```
+Connect to DB GUI as like connecting with localhost
+
 
 ## Start terminal session & run any command
 ```bash
